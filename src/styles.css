@@ -1,4 +1,20 @@
+body {
+  background-color: bisque;
+}
 .App {
   font-family: sans-serif;
   text-align: center;
+}
+
+.todo-list {
+  padding-top: 10px;
+  width: 100%;
+}
+
+.todo {
+  margin: 20px;
+  padding: 5px 10px;
+  /* height: 200px; */
+  background-color: #fff;
+  margin-bottom: 6px;
 }
